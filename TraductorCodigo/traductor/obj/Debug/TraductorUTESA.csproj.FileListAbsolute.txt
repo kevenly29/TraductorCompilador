@@ -1,0 +1,22 @@
+C:\Users\Admin\Desktop\ProyectoFinalLFP2S2019-master\ProyectoFinalLFP\bin\Debug\ProyectoFinalLFP.exe.config
+C:\Users\Admin\Desktop\ProyectoFinalLFP2S2019-master\ProyectoFinalLFP\bin\Debug\ProyectoFinalLFP.exe
+C:\Users\Admin\Desktop\ProyectoFinalLFP2S2019-master\ProyectoFinalLFP\bin\Debug\ProyectoFinalLFP.pdb
+C:\Users\Admin\Desktop\ProyectoFinalLFP2S2019-master\ProyectoFinalLFP\obj\Debug\TraductorUTESA.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ProyectoFinalLFP2S2019-master\ProyectoFinalLFP\obj\Debug\TraductorUTESA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\ProyectoFinalLFP2S2019-master\ProyectoFinalLFP\obj\Debug\ProyectoFinalLFP.Form1.resources
+C:\Users\Admin\Desktop\ProyectoFinalLFP2S2019-master\ProyectoFinalLFP\obj\Debug\ProyectoFinalLFP.Properties.Resources.resources
+C:\Users\Admin\Desktop\ProyectoFinalLFP2S2019-master\ProyectoFinalLFP\obj\Debug\TraductorUTESA.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ProyectoFinalLFP2S2019-master\ProyectoFinalLFP\obj\Debug\TraductorUTESA.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ProyectoFinalLFP2S2019-master\ProyectoFinalLFP\obj\Debug\ProyectoFinalLFP.exe
+C:\Users\Admin\Desktop\ProyectoFinalLFP2S2019-master\ProyectoFinalLFP\obj\Debug\ProyectoFinalLFP.pdb
+C:\Users\keven\Downloads\Semana-6-Traductor-main\Semana-6-Traductor-main\Traductor Semana 6\bin\Debug\ProyectoFinalLFP.exe.config
+C:\Users\keven\Downloads\Semana-6-Traductor-main\Semana-6-Traductor-main\Traductor Semana 6\bin\Debug\ProyectoFinalLFP.exe
+C:\Users\keven\Downloads\Semana-6-Traductor-main\Semana-6-Traductor-main\Traductor Semana 6\bin\Debug\ProyectoFinalLFP.pdb
+C:\Users\keven\Downloads\Semana-6-Traductor-main\Semana-6-Traductor-main\Traductor Semana 6\obj\Debug\TraductorUTESA.csproj.AssemblyReference.cache
+C:\Users\keven\Downloads\Semana-6-Traductor-main\Semana-6-Traductor-main\Traductor Semana 6\obj\Debug\TraductorUTESA.csproj.SuggestedBindingRedirects.cache
+C:\Users\keven\Downloads\Semana-6-Traductor-main\Semana-6-Traductor-main\Traductor Semana 6\obj\Debug\ProyectoFinalLFP.Form1.resources
+C:\Users\keven\Downloads\Semana-6-Traductor-main\Semana-6-Traductor-main\Traductor Semana 6\obj\Debug\ProyectoFinalLFP.Properties.Resources.resources
+C:\Users\keven\Downloads\Semana-6-Traductor-main\Semana-6-Traductor-main\Traductor Semana 6\obj\Debug\TraductorUTESA.csproj.GenerateResource.cache
+C:\Users\keven\Downloads\Semana-6-Traductor-main\Semana-6-Traductor-main\Traductor Semana 6\obj\Debug\TraductorUTESA.csproj.CoreCompileInputs.cache
+C:\Users\keven\Downloads\Semana-6-Traductor-main\Semana-6-Traductor-main\Traductor Semana 6\obj\Debug\ProyectoFinalLFP.exe
+C:\Users\keven\Downloads\Semana-6-Traductor-main\Semana-6-Traductor-main\Traductor Semana 6\obj\Debug\ProyectoFinalLFP.pdb

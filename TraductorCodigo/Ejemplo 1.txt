@@ -1,0 +1,30 @@
+class MyProgram
+{
+static void Main(String[] args)
+{
+for (int f = 1; f <= 10; f++)
+{
+Console.WriteLine("this will repeat every time we chose to repeat");
+if (f == 5)
+{
+Console.WriteLine("i am 8");
+}
+else
+{
+Console.WriteLine("i am not 8");
+}
+}
+for (int f = 10; f > 0; f--)
+{
+Console.WriteLine("this will repeat every time we chose to repeat");
+if (f == 8)
+{
+Console.WriteLine("i am  8");
+}
+else
+{
+Console.WriteLine("i am not 8");
+}
+}
+}
+}
